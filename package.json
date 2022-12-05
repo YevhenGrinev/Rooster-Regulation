@@ -1,0 +1,22 @@
+{
+  "name": "rooster-regulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YevhenGrinev/Rooster-Regulation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YevhenGrinev/Rooster-Regulation/issues"
+  },
+  "homepage": "https://github.com/YevhenGrinev/Rooster-Regulation#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
+}
